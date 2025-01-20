@@ -1,5 +1,4 @@
-# 💻 M. Khoirusofi  
-📞 (+62) 8561243735 | 📧 m.khoirusofi@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/khoirusofi/)  
+# 💻 M. Khoirusofi 
 
 ---
 

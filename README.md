@@ -15,18 +15,6 @@ My expertise ranges from **front-end** and **back-end** development to **full-st
 ### 🏥 [Health Information System - Bidan Eka Muzaifa](https://bidaneka.com/)  
 A Laravel-based system featuring online appointments, electronic medical records, health education articles, and data-driven reports with PDF download capabilities.  
 
-### 🛒 E-Commerce Platform - Waroeng Sodara  
-Built a complete e-commerce system supporting agent, sub-agent, reseller models, and local MSME promotions using **Laravel**, **Livewire**, and **Filament**.  
-
-### 💰 Financial Management System - Perempuan Mahardhika  
-Developed a system to track income, expenses, and generate automated financial reports, enabling efficient decision-making.  
-
-### 🧴 Scalp Diagnosis Expert System - Irwanteam Hairdesign  
-An interactive system utilizing **Rules-Based Expert System** to diagnose scalp conditions and recommend hair care products.  
-
-### 📂 E-Archive System - CV Asli Satia Persada  
-Digital document archiving system with advanced search, categorization, and user access controls.  
-
 Explore more in my repositories! 👨‍💻  
 
 ---
@@ -37,7 +25,6 @@ Explore more in my repositories! 👨‍💻
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
 
 ### **Tools & Platforms**  
